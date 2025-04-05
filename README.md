@@ -1,2 +1,2 @@
 # Cowcare
-link for cowcare website- https://cowcare-git-main-aarushi-jains-projects.vercel.app
+link for cowcare website- https://cowcare-sc33.vercel.app/
